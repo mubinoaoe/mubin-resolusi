@@ -3,9 +3,11 @@ RENCANA KONTEN MUBIN
 -Javascript
  * ES6
  * Framework Javascript
-   ^ Angular
+   ^ Vue
    ^ React
+ -Struktur Data Dasar
 -PHP frameworks
- ^ Laravel
+  ^Laravel
 -Interview
-Vlog
+-Vlog
+-Python
