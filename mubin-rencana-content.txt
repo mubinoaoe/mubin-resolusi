@@ -5,6 +5,7 @@ RENCANA KONTEN MUBIN
  * Framework Javascript
    ^ Vue
    ^ React
+   ^ Angular
  -Struktur Data Dasar
 -PHP frameworks
   ^Laravel
